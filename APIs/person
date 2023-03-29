@@ -1,0 +1,11 @@
+{
+    "first_name": "Tapan",
+    "last_name": "Mandal",
+    "age": 24,
+    "address": {
+        "streetAddress": "NH31",
+        "city": "Siliguri",
+        "state": "West Bengal",
+        "postalCode": "734426"
+    }
+}
